@@ -1,0 +1,92 @@
+
+#bio {
+    justify-content: center;
+    text-align: center;
+}
+#bio h4{
+    margin-top: 40%;
+}
+#bio ul{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#bio ul li {
+    font-size: 35px;
+    list-style: none;
+    margin-right: 10px;
+}
+a{
+  color: rgb(21, 23, 21);
+}
+a:hover{
+  color: burlywood;
+}
+h2{
+  color: aliceblue;
+}
+
+
+.bioabout{
+    justify-content: center;
+    text-align: center;
+    color: azure;
+    padding-bottom: 1%;
+}
+#bio h6{
+    margin-top: 7%;
+}
+#skill {
+    margin-top: 2%;
+    text-align: center;
+}
+#aboutDiv{
+    margin-top: 7%;
+    text-align: justify;
+  text-justify: inter-word;
+}
+#aboutDiv h5{
+    color: rgb(69, 25, 25);
+}
+#bioacad {
+    justify-content: center;
+    text-align: center;
+    color: azure;
+    padding-bottom: 3%;
+}
+.card{
+  justify-content: center;
+  text-align: center;
+  background-color: beige;
+  color: maroon;
+  margin-top: 1rem;
+}
+
+
+#biowork {
+    justify-content: center;
+    text-align: center;
+    color: azure;
+    padding-bottom: 3%;
+}
+#bio h6{
+    margin-top: 5%;
+}
+#skill {
+    margin-top: 2%;
+    text-align: center;
+}
+#projDtl{
+    margin-top: 5%;
+    text-align: justify;
+  text-justify: inter-word;
+}
+#projDtl h5{
+    color: rgb(184, 53, 53);
+}
+#projDtl span{
+    color: rgb(22, 5, 5);
+    text-decoration: underline;
+    margin-right: 2rem;
+    font-style: italic;
+}
