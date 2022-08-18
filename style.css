@@ -1,4 +1,5 @@
 
+
 #bio {
     justify-content: center;
     text-align: center;
@@ -74,7 +75,6 @@ h2{
 }
 #skill {
     margin-top: 2%;
-    text-align: center;
 }
 #projDtl{
     margin-top: 5%;
@@ -89,4 +89,8 @@ h2{
     text-decoration: underline;
     margin-right: 2rem;
     font-style: italic;
+}
+
+h2{
+  color: aliceblue;
 }
